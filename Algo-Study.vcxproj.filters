@@ -13,19 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Week_00">
+      <UniqueIdentifier>{91b59cef-5e5d-41d0-8f55-4dbcb7015a32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week_01">
+      <UniqueIdentifier>{44eb7f17-4f39-4177-ab6d-0e07a1e02219}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0-1_Two_Sum.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Week_00</Filter>
     </ClCompile>
     <ClCompile Include="0-2_Sum_of_Two_Integers.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Week_00</Filter>
     </ClCompile>
     <ClCompile Include="0-3_Climbing_Stairs.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Week_00</Filter>
     </ClCompile>
     <ClCompile Include="0-4_Clone_Graph.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Week_00</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1_Insert_Interval.cpp">
+      <Filter>소스 파일\Week_01</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2_Reverse_Linked_List.cpp">
+      <Filter>소스 파일\Week_01</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3_Set_Matrix_Zeroes.cpp">
+      <Filter>소스 파일\Week_01</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4_Longest_Substring_Without_Repeating_Characters.cpp">
+      <Filter>소스 파일\Week_01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
