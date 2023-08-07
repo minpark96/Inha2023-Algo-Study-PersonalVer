@@ -57,5 +57,8 @@
     <ClCompile Include="2-4_Number_of_1_Bits.cpp">
       <Filter>소스 파일\Week_02</Filter>
     </ClCompile>
+    <ClCompile Include="2-2_Merge_k_Sorted_Lists.cpp">
+      <Filter>소스 파일\Week_02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
