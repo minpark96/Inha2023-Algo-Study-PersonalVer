@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Week_02">
       <UniqueIdentifier>{9de4e6e6-b10d-4371-945f-882622bbf214}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Week_03">
+      <UniqueIdentifier>{f61bc1d8-6bbe-45ad-8b02-14f40c0e9fb1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0-1_Two_Sum.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="2-2_Merge_k_Sorted_Lists.cpp">
       <Filter>소스 파일\Week_02</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4_Linked_List_Cycle.cpp">
+      <Filter>소스 파일\Week_03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
