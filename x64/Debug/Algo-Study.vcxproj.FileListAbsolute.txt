@@ -1,2 +1,0 @@
-C:\Users\phm33\source\repos\Algo-Study\x64\Debug\Algo-Study.exe
-D:\Work\Cpp\AlgoPer\x64\Debug\Algo-Study.exe
