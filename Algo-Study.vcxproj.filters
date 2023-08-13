@@ -66,5 +66,14 @@
     <ClCompile Include="3-4_Linked_List_Cycle.cpp">
       <Filter>소스 파일\Week_03</Filter>
     </ClCompile>
+    <ClCompile Include="3-3_Merge_Intervals.cpp">
+      <Filter>소스 파일\Week_03</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2_Course_Schedule.cpp">
+      <Filter>소스 파일\Week_03</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1_Coin_Change.cpp">
+      <Filter>소스 파일\Week_03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
