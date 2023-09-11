@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Week_03">
       <UniqueIdentifier>{f61bc1d8-6bbe-45ad-8b02-14f40c0e9fb1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Week_06">
+      <UniqueIdentifier>{907b1d0c-9f76-4fb6-9ec2-3a6ec0c2c0a0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0-1_Two_Sum.cpp">
@@ -74,6 +77,18 @@
     </ClCompile>
     <ClCompile Include="3-1_Coin_Change.cpp">
       <Filter>소스 파일\Week_03</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1_Non-overlapping_Intervals.cpp">
+      <Filter>소스 파일\Week_06</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2_Merge_Two_Sorted_Lists.cpp">
+      <Filter>소스 파일\Week_06</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3_Rotate_Image.cpp">
+      <Filter>소스 파일\Week_06</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4_Minimum_Window_Substring.cpp">
+      <Filter>소스 파일\Week_06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
