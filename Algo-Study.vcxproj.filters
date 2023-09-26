@@ -28,6 +28,18 @@
     <Filter Include="소스 파일\Week_06">
       <UniqueIdentifier>{907b1d0c-9f76-4fb6-9ec2-3a6ec0c2c0a0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Week_07">
+      <UniqueIdentifier>{5f049184-9138-4d65-88c6-109f4ded64ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week_08">
+      <UniqueIdentifier>{ded1a8a7-7559-4113-b0f4-26cb5daa669d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기출">
+      <UniqueIdentifier>{0bf1f889-b092-4370-a8b2-0065d834778f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week_09">
+      <UniqueIdentifier>{f969ac9f-615f-4da2-a50c-e0f8e69c68e1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0-1_Two_Sum.cpp">
@@ -89,6 +101,48 @@
     </ClCompile>
     <ClCompile Include="6-4_Minimum_Window_Substring.cpp">
       <Filter>소스 파일\Week_06</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1_Invert_Binary_Tree.cpp">
+      <Filter>소스 파일\Week_07</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3_Product_of_Array_Except_Self.cpp">
+      <Filter>소스 파일\Week_07</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4_Missing_Number.cpp">
+      <Filter>소스 파일\Week_07</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2_Find_Median_from_Data_Stream.cpp">
+      <Filter>소스 파일\Week_07</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1_Longest_Common_Subsequence.cpp">
+      <Filter>소스 파일\Week_08</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2_Number_of_Islands.cpp">
+      <Filter>소스 파일\Week_08</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3_Remove_Nth_Node_From_End_of_List.cpp">
+      <Filter>소스 파일\Week_08</Filter>
+    </ClCompile>
+    <ClCompile Include="8-4_Word_Search.cpp">
+      <Filter>소스 파일\Week_08</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>소스 파일\기출</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1_Valid_Anagram.cpp">
+      <Filter>소스 파일\Week_09</Filter>
+    </ClCompile>
+    <ClCompile Include="9-4_Reverse_Bits.cpp">
+      <Filter>소스 파일\Week_09</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3_Maximum_Subarray.cpp">
+      <Filter>소스 파일\Week_09</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2_Binary_Tree_Maximum_Path_Sum.cpp">
+      <Filter>소스 파일\Week_09</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculater.cpp">
+      <Filter>소스 파일\기출</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
