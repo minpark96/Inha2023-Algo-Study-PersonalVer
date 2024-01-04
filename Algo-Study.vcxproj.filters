@@ -40,6 +40,15 @@
     <Filter Include="소스 파일\Week_09">
       <UniqueIdentifier>{f969ac9f-615f-4da2-a50c-e0f8e69c68e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Week_11">
+      <UniqueIdentifier>{e479407f-890b-49a3-af9d-008ae711bbd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week_12">
+      <UniqueIdentifier>{5eff116c-6d85-4eea-afd6-f55da2021e8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Week_14">
+      <UniqueIdentifier>{cbb1d8ba-6211-4e69-b62e-7712b7bf1bc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0-1_Two_Sum.cpp">
@@ -142,6 +151,42 @@
       <Filter>소스 파일\Week_09</Filter>
     </ClCompile>
     <ClCompile Include="Calculater.cpp">
+      <Filter>소스 파일\기출</Filter>
+    </ClCompile>
+    <ClCompile Include="Index.cpp">
+      <Filter>소스 파일\기출</Filter>
+    </ClCompile>
+    <ClCompile Include="monster.cpp">
+      <Filter>소스 파일\기출</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1_Binary_Tree_Level_Order_Traversal.cpp">
+      <Filter>소스 파일\Week_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-2_Maximum_Product_Subarray.cpp">
+      <Filter>소스 파일\Week_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-3_Combination_Sum_IV.cpp">
+      <Filter>소스 파일\Week_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-4_Valid_Parentheses.cpp">
+      <Filter>소스 파일\Week_11</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1_Find_Minimum_in_Rotated_Sorted_Array.cpp">
+      <Filter>소스 파일\Week_12</Filter>
+    </ClCompile>
+    <ClCompile Include="12-2_House_Robber.cpp">
+      <Filter>소스 파일\Week_12</Filter>
+    </ClCompile>
+    <ClCompile Include="12-3_Valid_Palindrome.cpp">
+      <Filter>소스 파일\Week_12</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일\Week_14</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일\Week_14</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
       <Filter>소스 파일\기출</Filter>
     </ClCompile>
   </ItemGroup>
